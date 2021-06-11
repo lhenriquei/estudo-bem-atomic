@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html class="no-js" lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+  <title>Generator Boilerplate Template Simple</title>
+
+  <meta property="og:site_name" content="Bradesco">
+  <meta property="og:title" content="Bradesco">
+  <meta property="og:description" content="Este é mais um canal pra você conversar com a gente, acompanhar nossas novidades e saber mais sobre nossos produtos e serviços. Siga com a gente! ;)">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image" content="http:/localhost/facebook.png" data-content="facebook.png">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http:/localhost">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@Bradesco">
+  <meta name="twitter:creator" content="@Bradesco">
+  <meta name="twitter:title" content="Bradesco">
+  <meta name="twitter:description" content="Este é mais um canal pra você conversar com a gente, acompanhar nossas novidades e saber mais sobre nossos produtos e serviços. Siga com a gente! ;)">
+  <meta name="twitter:image" content="http:/localhost/twitter.png" data-content="twitter.png">
+  <meta name="description" content="Descrição do projeto">
+
+</head>
+<body>
+  <main class="main">
+    <section class="container">
+      <h1>Banco Bradesco</h1>
+      <p>Este é mais um canal pra você conversar com a gente, acompanhar nossas novidades e saber mais sobre nossos produtos e serviços. Siga com a gente! ;)</p>
+    </section>
+  </main>
+</body>
+</html>
